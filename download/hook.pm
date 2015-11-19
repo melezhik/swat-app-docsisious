@@ -1,5 +1,5 @@
 modify_resource(sub {
     my $r = shift;
-    s{actions}[] for $r;
+    s{download}[] for $r;
     $r;
 });

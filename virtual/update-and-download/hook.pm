@@ -1,15 +1,19 @@
 use common;
 
 run_swat_module(
-    GET => 'actions/'
+    GET => 'home-page/'
 );
 
 run_swat_module(
-    POST => 'actions/'
+    POST => 'save-for-later/'
 );
 
 run_swat_module(
     GET => 'edit/ID'
+);
+
+run_swat_module(
+    POST => 'download/', { ID => id() }
 );
 
 set_response('done');

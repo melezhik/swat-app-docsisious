@@ -1,7 +1,8 @@
 200 OK
 
 begin:
-<textarea id="config" name="config" placeholder="Enter your DOCSIS config here">--- hello_world
+<textarea id="config" name="config" placeholder="Enter your DOCSIS config here">---
+OK: 1
 </textarea>
 end:
 

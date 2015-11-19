@@ -1,0 +1,5 @@
+done
+validator: [ -e test_root_dir()."/example.txt", "file ".test_root_dir()."/example.txt exists" ] 
+validator: [ -s test_root_dir()."/example.txt", "file ".test_root_dir()."/example.txt has none zero size" ] 
+validator: [ -B test_root_dir()."/example.txt", "file ".test_root_dir()."/example.txt is binary" ] 
+
