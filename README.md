@@ -55,7 +55,7 @@ Alexey Melezhik
 # see also
 
 * [https://github.com/melezhik/swat](https://github.com/melezhik/swat)
-
+* [https://metacpan.org/pod/App::docsisious](https://metacpan.org/pod/App::docsisious)
 
 
 
