@@ -1,0 +1,11 @@
+302 Found
+
+within: ^Location: \/docsisious\/edit\/
+
+regexp: edit\/(\S+)
+
+code: our $ID = capture()->[0];
+validator: [ our $ID, " valid ID: $ID" ]
+
+
+
