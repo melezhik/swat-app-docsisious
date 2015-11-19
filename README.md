@@ -1,6 +1,11 @@
 # swat-yars
 
-[swat](https://github.com/melezhik/swat) black box tests for DOCSIS config file editor
+[swat](https://github.com/melezhik/swat) black box tests for DOCSIS config file editor:
+
+* create a simple config structure and save it for latter
+* check if a created config structure contains desired text
+* download resulted config as binary file
+* check if file exists, has none zero bytes and is binary
 
 
 # install
