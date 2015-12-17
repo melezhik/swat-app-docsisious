@@ -1,0 +1,7 @@
+{
+    "version": "0.0.1",
+    "name" : "swat-app-docsisious",
+    "description": "swat black box tests for DOCSIS config file editor",
+    "url" : "https://github.com/melezhik/swat-app-docsisious"
+}
+
