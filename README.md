@@ -1,4 +1,4 @@
-# swat-yars
+# swat-app-docsisious
 
 [swat](https://github.com/melezhik/swat) black box tests for DOCSIS config file editor:
 
